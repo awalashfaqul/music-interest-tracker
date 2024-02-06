@@ -2058,24 +2058,26 @@
     ]
   },
   "packageFolders": {
-    "/Users/damianamalraj/.nuget/packages/": {}
+    "/Users/ashfaqul/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/damianamalraj/Documents/CHAS/K3 Backendutveckling och databaser/music-interest-tracker/API/API.csproj",
+      "projectUniqueName": "/Users/ashfaqul/Desktop/NET-23 Ashfaqul/Backend Development & Database (SQL)/music-interest-tracker/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/damianamalraj/Documents/CHAS/K3 Backendutveckling och databaser/music-interest-tracker/API/API.csproj",
-      "packagesPath": "/Users/damianamalraj/.nuget/packages/",
-      "outputPath": "/Users/damianamalraj/Documents/CHAS/K3 Backendutveckling och databaser/music-interest-tracker/API/obj/",
+      "projectPath": "/Users/ashfaqul/Desktop/NET-23 Ashfaqul/Backend Development & Database (SQL)/music-interest-tracker/API/API.csproj",
+      "packagesPath": "/Users/ashfaqul/.nuget/packages/",
+      "outputPath": "/Users/ashfaqul/Desktop/NET-23 Ashfaqul/Backend Development & Database (SQL)/music-interest-tracker/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/damianamalraj/.nuget/NuGet/NuGet.Config"
+        "/Users/ashfaqul/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "/usr/local/share/dotnet/sdk/7.0.311/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2138,16 +2140,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.417/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file /Users/damianamalraj/Documents/CHAS/K3 Backendutveckling och databaser/music-interest-tracker/API/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }
