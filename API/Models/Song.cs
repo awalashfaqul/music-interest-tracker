@@ -13,5 +13,10 @@ namespace API.Models
     public virtual Artist Artist { get; set; }
     public virtual Genre Genre { get; set; }
     public virtual ICollection<User> Users { get; set; }
-  }
+        /* The ICollection<User> properties imply a 
+         * relationship between an artist and users and song. 
+         * 
+         * The virtual keyword indicates that this property can be overridden 
+         * by derived classes.*/
+    }
 }
